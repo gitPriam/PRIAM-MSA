@@ -29,3 +29,12 @@
           - PRIAM-Consent-service
           - tea-Provider-microservice
           - PRIAM-FrontEnd
+
+    For PRIAM-FrontEnd, Install the project dependencies by running the following command:
+            - npm install
+
+    Once the dependencies are successfully installed, you can run the Angular development server using the command:
+            - ng serve
+
+    This command will launch the development server, and you can access your application in your browser by opening the URL http://localhost:4200/.
+    
