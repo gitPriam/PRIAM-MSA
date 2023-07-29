@@ -1,6 +1,8 @@
 ### To test the solution, you need: 
     - IntelliJ IDEA.
     - MySQL DBMS.
+    - Angular CLI (including nodejs)
+    
 ## Deployment
 -
   ### Create database
