@@ -1,7 +1,6 @@
 ### To test the solution, you need: 
     - IntelliJ IDEA.
     - MySQL DBMS.
-    - Angular CLI (including nodejs)
     
 ## Deployment
 -
@@ -30,7 +29,7 @@
           - PRIAM-DataRequest-service
           - PRIAM-Consent-service
           - tea-Provider-microservice
-          - PRIAM-FrontEnd
+          - PRIAM-FrontEnd (you need to install Angular CLI (including nodejs))
 
     For PRIAM-FrontEnd, Install the project dependencies by running the following command:
             - npm install
