@@ -39,3 +39,10 @@
 
     This command will launch the development server, and you can access your application in your browser by opening the URL http://localhost:4200/.
     
+## Example 
+### 1- Creation of a rectification request by the user (data subject)
+![dataSubject steps](https://github.com/gitPriam/PRIAM-MSA/assets/135063280/2bff9e84-b916-456b-aabe-41c4c67511f9)
+
+### 2- Response to the request for rectification by the provider
+![provider steps](https://github.com/gitPriam/PRIAM-MSA/assets/135063280/eca1e7f4-9034-416c-a806-dc6300f060f7)
+![provider steps 2](https://github.com/gitPriam/PRIAM-MSA/assets/135063280/122166fb-6d45-43a0-8934-9708455f5440)
