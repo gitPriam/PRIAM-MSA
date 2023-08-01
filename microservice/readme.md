@@ -45,7 +45,7 @@
 
 ### 2- Response to the request for rectification by the provider
 ![provider steps](https://github.com/gitPriam/PRIAM-MSA/assets/135063280/eca1e7f4-9034-416c-a806-dc6300f060f7)
-![provider steps 2](https://github.com/gitPriam/PRIAM-MSA/assets/135063280/122166fb-6d45-43a0-8934-9708455f5440)
+![provider steps 2](https://github.com/gitPriam/PRIAM-MSA/assets/135063280/aa70bbdc-9bc3-4fcf-b4f5-8c646e752d8f)
 
 ### Giving/modifying consent
 ![dataSubject consent](https://github.com/gitPriam/PRIAM-MSA/assets/135063280/13f20c69-3312-4bb5-9a0c-d5bf20a2005f)
